@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratikcodex
 - 👀 I’m interested in DEVELOPMENT
-- 🌱 I’m currently learning ...C++ /DSA
+- 🌱 I’m currently learning ...java /DSA
 - 💞️ I’m Currently in my 1st year doing cse(data science)
 - 📫 How to reach me ...pratikrajcpr@gmail.co
 
