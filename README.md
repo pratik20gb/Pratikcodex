@@ -27,7 +27,12 @@
 
 - 📄 My Portfolio [https://pratikcodex.github.io/portfolio/](https://pratikcodex.github.io/portfolio/)
 
-- ⚡ Fun fact **I am fun!!**
+- ⚡ Connect with me  **from below**
+
+## 🔗 Links
+[![profile](https://img.shields.io/badge/my_profile-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Pratikcodex/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-raj-a4298b219//)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codepratikxo/)
 
 
 <p align="left">
