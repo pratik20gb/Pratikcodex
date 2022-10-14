@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **tindog**
+- 🔭 I’m currently a Front-end-developer.
 
 - 🌱 I’m currently learning **C++ and DSA**
 
