@@ -20,7 +20,7 @@
 
 - 📝 I am a gaming content creator [https://www.youtube.com/channel/UCTQtQ36aw_nB4BMH4TMNFuA](https://www.youtube.com/channel/UCTQtQ36aw_nB4BMH4TMNFuA)
 
-- 💬 Tindog:<a href"https://pratikcodex.github.io/Tindog/">My1st project</a>
+- 💬 Tindog:https://pratikcodex.github.io/Tindog/
 
 - 📫 How to reach me **pratikrajcpr@gmail.com**
 
