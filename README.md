@@ -50,7 +50,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratikcodex&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratikcodex&theme=react&hide_border=false)<br/>
-<div align="left | right | center | justify";>![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikcodex&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div>
+
 
 
 
