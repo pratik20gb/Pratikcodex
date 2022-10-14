@@ -10,17 +10,17 @@
 
 
 
-- 🔭 I’m currently a Front-end-developer.
+- 🔭 I’m Pratik Raj .
 
-- 🌱 I’m currently learning **C++ and DSA**
+- 🌱 I’m currently a undergrad of Data science.
 
-- 👯 I’m looking to collaborate on **front-end work**
+- 👯 I’m a front-end-developer , learning new stuff
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratikcodex](https://github.com/Pratikcodex)
 
 - 📝 I am a gaming content creator [https://www.youtube.com/channel/UCTQtQ36aw_nB4BMH4TMNFuA](https://www.youtube.com/channel/UCTQtQ36aw_nB4BMH4TMNFuA)
 
-- 💬 Ask me about **WEBSITES AND DESIGN**
+- 💬 Tindog:<a href"https://pratikcodex.github.io/Tindog/">My1st project</a>
 
 - 📫 How to reach me **pratikrajcpr@gmail.com**
 
