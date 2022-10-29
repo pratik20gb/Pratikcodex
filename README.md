@@ -18,8 +18,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratikcodex](https://github.com/Pratikcodex)
 
-- 📝 I am a gaming content creator [https://www.youtube.com/channel/UCTQtQ36aw_nB4BMH4TMNFuA](https://www.youtube.com/channel/UCTQtQ36aw_nB4BMH4TMNFuA)
-
 - 💬 Tindog:https://pratikcodex.github.io/Tindog/
 
 - 📫 How to reach me **pratikrajcpr@gmail.com**
