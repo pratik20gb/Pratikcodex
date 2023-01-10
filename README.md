@@ -1,12 +1,10 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" width="1200" height="250">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=&width=435&lines=Bonjour+;THIS+IS+PRATIK+RAJ;Front-end+-developer+from+india)](https://git.io/typing-svg)
-
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" width="1200" height="350">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikcodex&label=Profile%20views&color=0e75b6&style=flat" alt="pratikcodex" /> </p>
+
+
+
 
 
 
