@@ -10,11 +10,7 @@
 
 - 🔭 I’m Pratik Raj .
 
-- 🌱 I’m currently a undergrad of Data science.
-
-- 👯 I’m a front-end-developer , learning new stuff
-
-- 👨‍💻 All of my projects are available at [https://github.com/Pratikcodex](https://github.com/Pratikcodex)
+- 🌱Currently a undergrad of Data science.
 
 - 💬 Tindog:https://pratikcodex.github.io/Tindog/
 
