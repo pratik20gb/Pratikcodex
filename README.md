@@ -42,7 +42,7 @@ education:
     "2nd year data science  undergrad",
     "B-tech in CSE_Data science",
   ]
-Youtube: @shotty_bhai
+Youtube: @webxraj
 
 fields_of_interests:
   [
