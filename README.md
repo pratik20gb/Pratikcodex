@@ -1,5 +1,5 @@
 <p align="center">
-  <img  height= "450" width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PRATIK!&height=100&section=header"/>
+  <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PRATIK!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
@@ -73,5 +73,5 @@ hobbies: ["Gaming", "Editing", "Creation", "Art", "Web"]
 <p><img height= "200" width="1000" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikcodex&" alt="pratikcodex" /></p>
 
 <p align="left">
-  <img  height= "200" width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img   width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
