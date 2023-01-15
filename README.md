@@ -13,7 +13,7 @@
 <a href="https://pratikcodex.github.io/portfolio/">
   <img height="50" src="https://pratikcodex.github.io/portfolio/images/logoo.png"/>
 </a>
-<a href="https://pratikcodex.github.io/drum/">
+<a href="https://pratikcodex.github.io/drum-kit/">
   <img height="50" src="https://m.media-amazon.com/images/I/61yoxKi1PaL.png"/>
 </a>
 <a href="https://twitter.com/pratikrajcpr">
